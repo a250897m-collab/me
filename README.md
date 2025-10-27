@@ -8,4 +8,4 @@ myinfo = {
 }
 
 print(myinfo)
-!![最近ハマっているゲーム](image.png)
+!![自分の写真](./me/WIN_20251027_14_31_23_Pro/WIN_20251027_14_31_23_Pro.jpg)
