@@ -11,3 +11,5 @@
     好きな食べ物は寿司とオムライスで、特に寿司の中でも好きなネタは、サーモンです！
 
 ![自分の写真](https://github.com/a250897m-collab/me/blob/main/WIN_20251027_14_31_23_Pro.jpg?raw=true)
+
+https://github.com/a250897m-collab/me.git 
